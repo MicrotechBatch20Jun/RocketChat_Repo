@@ -26,7 +26,7 @@ import utilities.ExcelReader;
 import org.apache.log4j.Logger;
 
 public class BaseClass {
-
+ 
 	public static WebDriver driver;
 	public static FileInputStream fis;
 	public static Properties or;
